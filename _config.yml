@@ -15,7 +15,7 @@ plugins:
 # Site settings
 url: 'https://ysinghc.github.io'
 baseurl: ''
-title: 'My blog'
+title: 'Yuvraj Singh Chauhan'
 description: 'This is my new blog'
 permalink: pretty
 logo: "ysinghc.jpg"
