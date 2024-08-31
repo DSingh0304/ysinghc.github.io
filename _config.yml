@@ -27,6 +27,6 @@ paginate_path: blog/page:num
 # Collections
 collections:
   posts:
-    title: Blog
+    title: "Yuvraj Singh Chauhan"
     output: true
-    description: "There isn't much going on here yet, but watch this space"
+    description: "There isn't much going on here yet, but watch this spac"
