@@ -13,7 +13,7 @@ plugins:
 - jekyll-remote-theme
 
 # Site settings
-url: 'https://ysinghc.github.io'
+url: 'https://ysinghc.me'
 baseurl: ''
 title: 'ysinghc'
 description: 'This is my new blog'
