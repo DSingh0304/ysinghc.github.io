@@ -11,7 +11,7 @@ I began my coding journey in **class 6** when my teacher introduced me to C, spa
 - **Created a Python-SQL interface** 🗃️: Developed a user-friendly GUI to improve interaction with SQL databases.
 - **Built a YouTube video downloader** 📹: Designed a tool for downloading both single videos and playlists in the highest quality.
 - **Led the school's ATAL Tinkering Lab** 🛠️: Created hardware projects using Arduino and Raspberry Pi, fostering hands-on learning and innovation.
-- **Explored the Linux kernel and various Linux distributions** 🐧: Successfully created a basic Arch Linux installation, deepening my understanding of operating systems and system internals.
+- **Explored the Linux kernel and various Linux distributions** 🐧: Successfully created a full fledged OS using Arch linux, deepening my understanding of operating systems and system internals.
 - **Gained proficiency with Git and GitHub** 🔧: Acquired skills in version control and development tools that are essential for collaborative coding.
 - **Participated in Hacktoberfest** 🎉: Earned a shirt and stickers for my contributions to open-source projects.
 
