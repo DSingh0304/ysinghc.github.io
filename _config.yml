@@ -14,7 +14,7 @@ plugins:
 
 # Site settings
 url: 'https://ysinghc.me'
-baseurl: ''
+baseurl: 'ysinghc.me'
 title: 'ysinghc'
 description: 'This is my new blog'
 permalink: pretty
