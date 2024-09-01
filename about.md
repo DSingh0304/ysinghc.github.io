@@ -2,7 +2,7 @@
 layout: page
 title: About
 ---
-I began my coding journey in **class 6** when my teacher introduced me to C, sparking a passion for computer science and technology. My enthusiasm for the field grew when I started watching **Google I/O** in 2017, with AI capturing my interest 🤖. Since then, I’ve focused on strengthening my problem-solving skills and broadening my technical knowledge.
+I began my coding journey in **class 6** when my teacher introduced me to C, sparking a passion for computer science and technology. My enthusiasm for the field grew when I started watching **Google I/O** in 2017, I was amazed by this thing called Artificial Intelligence. At that development of true **Artificially Intelligent software** was done by people with years of research and great programming fundamentals. So since then, I’ve focused on broadening my theoretical and technical knowledge and strengthening my problem-solving skill.
 
 ### Key Milestones 🚀
 
@@ -23,7 +23,7 @@ Due to the nature of my introduction to computer science and technology, I tend 
 
 This approach keeps me engaged and allows me to immerse myself deeply in my projects.
 
-### Languages I Am Proficient In 🗣️
+### Languages I Am Proficient In
 
 - **Proficient** in **C** and **Python** 💻
 - **Syntactical knowledge** of **C++**, **HTML**, and **CSS** 🌐
