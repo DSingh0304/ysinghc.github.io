@@ -18,7 +18,7 @@ baseurl: ''
 title: 'ysinghc'
 description: 'This is my new blog'
 permalink: pretty
-logo: "ysinghc.jpg"
+logo: "/assets/images/ysinghc.jpg"
 
 # Pagination
 paginate: 5
