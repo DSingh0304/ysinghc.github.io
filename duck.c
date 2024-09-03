@@ -35,7 +35,7 @@ int main(int argc, char *argv[]) {
 
     char command[500];
     //move the file to the _posts folder
-    sprintf(command, "mv %s _posts/%s", filename, filename);
+    sprintf(command, "mv %s.md _posts/%s.md", filename, filename);
     system(command);
 
     system("git add .");
