@@ -7,6 +7,11 @@
 
 int main(int argc, char *argv[]) {
 
+    if (argc < 3) {
+        printf("Usage: %s <category> <message>\n", argv[0]);
+        return 1;
+    }
+    
     time_t t = time(NULL);
     struct tm tm = *localtime(&t);
 
