@@ -1,9 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
-//import a library to execute os commands
 #include <unistd.h>
-
+#include <string.h>
 
 int main(int argc, char *argv[]) {
 
