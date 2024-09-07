@@ -15,10 +15,11 @@ int main(int argc, char *argv[]) {
     struct tm tm = *localtime(&t);
 
     char filename[100];
-    sprintf(filename, "%d-%02d-%02d_%02d:%02d.md", tm.tm_year + 1900, tm.tm_mon + 1, tm.tm_mday, tm.tm_hour, tm.tm_min);
+    sprintf(filename, "%d-%02d-%02d-%02d-%02d.md", tm.tm_year + 1900, tm.tm_mon + 1, tm.tm_mday, tm.tm_hour, tm.tm_min);
 
     FILE *file = fopen(filename, "w");
     filename[strlen(filename) - 3] = '\0';
+    filename[13] = ":";
     if (file == NULL) {
         printf("Error: Could not open file %s\n", filename);
         return 1;
