@@ -19,14 +19,16 @@ int main(int argc, char *argv[]) {
 
     FILE *file = fopen(filename, "w");
     filename[strlen(filename) - 3] = '\0';
-    filename[13] = ':';
+    char title[100];
+    sprintf(title, "%s", filename);
+    title[13] = ':';
     if (file == NULL) {
         printf("Error: Could not open file %s\n", filename);
         return 1;
     }
 
     char template[] = "---\ntitle: %s\ncategory: %s\n---\n\n";
-    fprintf(file, template, filename, argv[1]);
+    fprintf(file, template, title, argv[1]);
 
     for(int i = 2; i < argc; i++) {
         fprintf(file, "%s ", argv[i]);
