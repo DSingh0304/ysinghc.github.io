@@ -19,7 +19,7 @@ int main(int argc, char *argv[]) {
 
     FILE *file = fopen(filename, "w");
     filename[strlen(filename) - 3] = '\0';
-    filename[13] = ":";
+    filename[13] = ':';
     if (file == NULL) {
         printf("Error: Could not open file %s\n", filename);
         return 1;
