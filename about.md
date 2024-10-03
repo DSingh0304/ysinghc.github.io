@@ -5,7 +5,7 @@ title: About
 
 I began my coding journey in **Class 6** when my teacher introduced me to C, sparking a passion for computer science and technology. My enthusiasm for the field grew when I started watching **Google I/O** in 2017; I was amazed by this thing called Artificial Intelligence. At that time, the development of truly **Artificially Intelligent software** was accomplished by people with years of research and strong programming fundamentals. Since then, I’ve focused on broadening my theoretical and technical knowledge and strengthening my problem-solving skills.
 
-[Resume]("https://github.com/ysinghc/ysinghc.github.io/blob/22c2e47b55f0c54ba78986def3c151e6a05a37fe/YUVRAJ%20SINGH%20CHAUHAN.pdf")
+[Resume]({{ site.baseurl }}{% "resume.pdf" %})
 
 ### Key Milestones 🚀
 
